@@ -1,6 +1,9 @@
-[submodule "nodejs-codespace"]
-	path = nodejs-codespace
-	url = https://github.com/sys-t-ma/nodejs-codespace
 [submodule "flutter-codespace"]
 	path = flutter-codespace
 	url = https://github.com/sys-t-ma/flutter-codespace
+[submodule "nodejs-codespace"]
+	path = nodejs-codespace
+	url = https://github.com/sys-t-ma/nodejs-codespace
+[submodule "rust-codespace"]
+	path = rust-codespace
+	url = https://github.com/sys-t-ma/rust-codespace
